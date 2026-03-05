@@ -25,7 +25,7 @@ updatedOn: 2026-03-05
 - Food Pigments are naturally occurring compounds present in plants and animal tissues. They impart colour to the cells in which they exist.
 - It plays a very important role in enhancing the aesthetic appearance of foods.
 - Pigments are technically chemical compounds that absorb light in the wavelength range of the visible region.
-- Produced colour is due to a molecule-specific structure (chromophore); this structure captures the energy and the excitation of an electron from an external orbital to a higher orbital is produced; the non-absorbed energy reflected/refracted, captured by eyes and interpreted as a colour.
+- The colour produced by a pigment depends on a specific part of its molecule called the **chromophore**. When light strikes this structure, it absorbs certain wavelengths of light, causing electrons to jump to a higher energy level (excitation). The wavelengths of light that are not absorbed are reflected or refracted back; these are detected by our eyes and interpreted as colour.
 - Pigments extracted from plants, animals and minerals have been widely used for imparting colour to various foods. Now, use of synthetic dyes is also more common.
 - Various natural pigments found in food sources include:
   - Chlorophylls
