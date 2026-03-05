@@ -81,7 +81,7 @@ Pigments can be grouped into various categories based on their properties. The c
 - The chlorophyll molecule has a hydrophilic part, the macrocycle, and a hydrophobic segment, the phytol. The closed circuit of conjugated double bonds is the chromophore that allows them to absorb light.
 - Structurally, chlorophyll b' is more stable than chlorophyll a' due to electron withdrawing effect of C-3 formyl group.
 
-![600](image1.png)
+![image showing chlorophyll a and b](image1.png)
 
 The green colour of vegetables and fruits, due to the presence of chlorophyll, is affected by aging, enzymes, weak acids, oxygen, heat, and light.
 
