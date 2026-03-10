@@ -500,7 +500,7 @@ _Summary of various coloured compounds formed by myoglobin_
 - Cutting or crushing of garlic clove causes allinase-mediated conversion of S-allylcysteine sulfoxide to **allicin**. Decomposition of allicin yields **diallyl sulfide (DAS), diallyl disulfide (DADS), and diallyl trisulfide (DATS)**.
 - Degradation of sulfur compounds cause aroma of cooked _Brassica_ (cabbage family) and _Allium_ (onion, garlic, shallot, leek etc.) vegetables.
 - **Thiols** - There are only a few compounds that impart a characteristic meaty aroma and the most common examples are **2-methyl-3-furanthiol** and **bis-(2-methyl-3-furan) disulfide**.
-- **Isothiocyanates**- In cooked cauliflower, **allyl isothiocyanate** is key odourant, contributing pungent, black mustard-like notes. **Methyl thiocyanate, butyl isothiocyanate, 2-methylbutyl isothiocyanate** and sulfides have been found to be important in broccoli aroma.
+- **Isothiocyanates** - In cooked cauliflower, **allyl isothiocyanate** is key odourant, contributing pungent, black mustard-like notes. **Methyl thiocyanate, butyl isothiocyanate, 2-methylbutyl isothiocyanate** and sulfides have been found to be important in broccoli aroma.
 
 ---
 
