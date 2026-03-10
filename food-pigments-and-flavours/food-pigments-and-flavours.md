@@ -25,11 +25,11 @@ updatedOn: 2026-03-05
 - Food Pigments are naturally occurring compounds present in plants and animal tissues. They impart colour to the cells in which they exist.
 - It plays a very important role in enhancing the aesthetic appearance of foods.
 - Pigments are technically chemical compounds that absorb light in the wavelength range of the visible region.
-- Produced colour is due to a molecule-specific structure (**chromophore**); this structure captures the energy and the excitation of an electron from an external orbital to a higher orbital is produced; the non-absorbed energy is reflected/refracted, captured by eyes and interpreted as a colour.
-- Pigments extracted from plants, animals and minerals have been widely used for imparting colour to various foods. Now, use of synthetic dyes is also more common.
+- The colour produced by a pigment depends on a specific part of its molecule called the **chromophore**. When light strikes this structure, it absorbs certain wavelengths of light, causing electrons to jump to a higher energy level (excitation). The wavelengths of light that are not absorbed are reflected or refracted back; these are detected by our eyes and interpreted as colour.
+- Pigments extracted from plants, animals and minerals have been widely used for imparting colour to various foods. Nowadays, use of synthetic dyes is also more common.
 - Various natural pigments found in food sources include:
   - Chlorophylls
-  - Myoglobin and Hemoglobin
+  - Myoglobin and Heamoglobin
   - Anthocyanins
   - Carotenoids
   - Flavonoids
@@ -37,49 +37,49 @@ updatedOn: 2026-03-05
   - Betalains
   - Quinones and Xanthones
 
-### Classification of Pigments
+### Classification of pigments
 
-Pigments can be grouped into various categories based on their properties. The categorization can be done
+Pigments can be grouped into various categories based on their properties. The categorization can be done;
 
 #### 1. Based on solubility
 
-| **Solubility**                             | **Pigments**                                                        |
-| ------------------------------------------ | ------------------------------------------------------------------- |
-| Water soluble/ Lipid insoluble/ lipophobic | Flavonoids- Anthocyanins, Flavanols, Flavones, Flavanals; betalains |
-| Water insoluble/ Lipid soluble/ lipophilic | Chlorophyll, carotenoids                                            |
+| **Solubility**                           | **Pigments**                                                       |
+| ---------------------------------------- | ------------------------------------------------------------------ |
+| Water soluble/Lipid insoluble/Lipophobic | Flavonoids-Anthocyanins, Flavanols, Flavones, Flavanals, Betalains |
+| Water insoluble/Lipid soluble/Lipophilic | Chlorophyll, Carotenoids                                           |
 
 #### 2. Based on source
 
-1. Natural pigments- produced by living organisms such as plants, animals, fungi, and microorganisms.
-   1. Plant origin- chlorophyll, carotene, anthocyanin, tannins, betanin, betaxanthins etc.
-   2. Animal origin- Myoglobin, hemoglobin, bile pigments etc.
-2. Synthetic- obtained from laboratories. Ex- indigo, fast green FCF, sunset yellow FCF.
+1. Natural pigments - produced by living organisms such as plants, animals, fungi, and microorganisms.
+   1. Plant origin - chlorophyll, carotene, anthocyanin, tannins, betanin, betaxanthins, etc.
+   2. Animal origin - myoglobin, heamoglobin, bile pigments, etc.
+2. Synthetic - obtained from laboratories. E.g. - indigo, fast green FCF, sunset yellow FCF.
 
-#### 3. Based on chemical structure/ structural characteristics
+#### 3. Based on chemical structure/structural characteristics
 
-1. Tetrapyrroles- Ex- chlorophylls and heme
-2. Tetraterpenoids/ isoprenoids- Ex- carotenoids and iridoids.
-3. Benzopyran derivatives/ oxygenated heterocyclic compounds- Ex- anthocyanins and other flavonoid pigments
-4. Quinones- benzoquinone, naphthoquinone, anthraquinone.
-5. N-heterocyclic compounds- Ex- purines, pterins, flavins, phenazines, phenoxazines, and betalains
+1. Tetrapyrroles - E.g. - chlorophylls and haem
+2. Tetraterpenoids/isoprenoids - E.g. - carotenoids and iridoids
+3. Benzopyran derivatives/oxygenated heterocyclic compounds - E.g. - anthocyanins and other flavonoid pigments
+4. Quinones - benzoquinone, naphthoquinone, anthraquinone
+5. N-heterocyclic compounds - E.g. - purines, pterins, flavins, phenazines, phenoxazines, and betalains
 
 ### Major classes of pigments
 
 #### 1. Chlorophyll
 
 - It is the **green pigment** present in plants including algae, and is involved in photosynthesis. One of the most abundant pigments in nature.
-- Water insoluble in nature and can be extracted using organic solvents.
+- **Water insoluble** in nature and can be extracted using organic solvents.
 - Chlorophyll molecule consists of a central metal core (magnesium) surrounded by a nitrogen-containing structure, resulting in a **porphyrin** ring.
 - All the chlorophyll molecules are characterized by the presence of four pyrrole-like rings (thus termed **tetrapyrroles**) along with an additional fifth ring.
 - Besides, a number of side chains are attached to the ring structure, of which an important one is, the side chain of a long hydrocarbon, called **phytol** ring.
-- Chlorophylls are classified as chlorins, which are close relatives of porphyrins like hemoglobin. Chlorophyll are magnesium complexes derived porphin.
+- Chlorophylls are classified as chlorins, which are close relatives of porphyrins like heamoglobin. Chlorophyll are magnesium complexes derived porphin.
 - Light absorption in chlorophyll is carried out by the porphyrin ring.
-- A number of chlorophyll structures have been known. In higher plants, ferns, mosses, algae only two chlorophylls found ("a" and "b"), and the rest of them have been found in other groups such as algae and bacteria.
-- Chlorophylls a and b occur in approximate ratio of 3:1 in fruits and vegetables.
-- Chlorophyll 'a' contains methyl group and 'b' contains formyl/ aldehyde group.
-- Chlorophyll a appears blue-green and chlorophyll b yellow-green.
+- A number of chlorophyll structures have been known. In higher plants, ferns, mosses, algae, only two chlorophylls found ("_a_" and "_b_"), and the rest of them have been found in other groups such as algae and bacteria.
+- Chlorophylls _a_ and _b_ occur in approximate ratio of 3:1 in fruits and vegetables.
+- Chlorophyll _a_ contains methyl group and _b_ contains formyl/aldehyde group.
+- Chlorophyll _a_ appears blue-green and chlorophyll _b_ yellow-green.
 - The chlorophyll molecule has a hydrophilic part, the macrocycle, and a hydrophobic segment, the phytol. The closed circuit of conjugated double bonds is the chromophore that allows them to absorb light.
-- Structurally, chlorophyll b is more stable than chlorophyll a due to electron withdrawing effect of C-3 formyl group.
+- Structurally, chlorophyll _b_ is more stable than chlorophyll _a_ due to electron withdrawing effect of C-3 formyl group.
 
 <figure>
   <img src="image1.png" alt="">
@@ -93,22 +93,22 @@ The green colour of vegetables and fruits, due to the presence of chlorophyll, i
 ##### Effect of acid
 
 - pH plays a vital role in stability. It is more stable in alkaline pH than acidic.
-- Treatment of cholorophyll-a with acid removes the magnesium ion replacing it with two hydrogen atoms giving an **olive-brown** solid, **pheophytin**.
-- Pheophytin a exhibits a **grey-brown colour**, whereas pheophytin b is **olive green**.
+- Treatment of cholorophyll _a_ with acid removes the magnesium ion replacing it with two hydrogen atoms giving an **olive-brown** solid, **pheophytin**.
+- Pheophytin-_a_ exhibits a **grey-brown colour**, whereas pheophytin-_b_ is **olive green**.
 - Formation of pheophytin in processed vegetables is increased at lower tissue pH values and at higher process temperatures.
 - The formation of derivatives known as **pyropheophytins** may also occur by the loss of the carbomethoxy group from pheophytins (5, 12) as a result of further heating.
 
 ##### Effect of alkali
 
-- When treated in alkaline solution such as NaOH, methyl and phytyl esters are removed producing **chlorophyllin** (bright green in colour). It is water soluble causing cooking water to turn green as well.
+- When treated in alkaline solution such as $NaOH$, methyl and phytyl esters are removed producing **chlorophyllin** (bright green in colour). It is water soluble causing cooking water to turn green as well.
 - Chlorophyllins are compounds with a slightly higher stability compared to chlorophyll.
 
-##### Effect of Heat/ cooking
+##### Effect of heat/cooking
 
 - Colour first changes to bright green, because of clearance of cloudy pockets from their cells due to heating and expansion of gases. bright green colour of chloroplasts is visualized.
-- As temperature rises, chemical changes lead to formation of olive green to dull green pheophytins
+- As temperature rises, chemical changes lead to formation of olive green to dull green pheophytins.
 - Formation of pheophytins during heating is initiated by the release of cellular acids and the synthesis of new acids.
-- **Mild heat Epimerization** is the first alteration observed when chlorphyll is exposed to heat. Mild heating is sufficient to form isomers designated as chlorophylls a' and b'.
+- **Mild heat epimerization** is the first alteration observed when chlorphyll is exposed to heat. Mild heating is sufficient to form isomers designated as chlorophylls-_a'_ and _b'_.
 
 <figure>
   <img src="image2.png" alt="">
@@ -117,46 +117,46 @@ The green colour of vegetables and fruits, due to the presence of chlorophyll, i
 
 ##### Effect of enzyme
 
-- Chlorophyllase catalyzes cleavage of phytol form chlorophylls forming **chlorophyllide (bright green)**.
-- In the presence of acid, chlorophyllides undergo loss of the magnesium and form **phephorbides (olive brown)**.
-- Chlorophyllase also hydrolyzes the phytol chain of pheophytins giving rise to pheophorbides
-- Chlorophyllase losses its activity when heated to 100 °C
-- Since the optimum temperature for chlorophyllase activity in vegetables ranges between 60 °C and 82.2 °C, some green vegetables show considerable formation of chlorophyllides and some pheophorbides only at low-temperature (60-70 °C) blanching treatment.
+- Chlorophyllase catalyzes cleavage of phytol from chlorophylls forming **chlorophyllide (bright green)**.
+- "In the presence of acid, chlorophyllides undergo the loss of magnesium to form **pheophorbides (olive brown)**.
+- Chlorophyllase also hydrolyzes the phytol chain of pheophytins giving rise to pheophorbides.
+- Chlorophyllase losses its activity when heated to 100 °C.
+- Since the optimum temperature for chlorophyllase activity in vegetables ranges between 60 °C and 82.2 °C, some green vegetables show considerable formation of chlorophyllides and pheophorbides during low-temperature (60–70 °C) blanching treatments.
 
 ##### Ways to retain the green colour in processed foods
 
 - Acid neutralization, high temperature short-time processing, enzymatic conversion of chlorophyll to chlorophyllide, and commercial application of metallo complex.
 - Pheophytin and pyropheophytin will complex with copper and zinc ions to form complexes with more attractive green colour and are more stable to light.
-- **Allomerization**: Chlorophyll oxidized when dissolved in alcohol or other solvent and exposed to air. Process is called allomerization. Products are blue green in colour.
+- **Allomerization**: Chlorophyll oxidizes when dissolved in alcohol or other solvent and exposed to air. This process is called allomerization and the resulting products are blue green in colour.
 
-#### Flavonoids
+#### 2. Flavonoids
 
-- The name stems from the Latin word "flavus," which means yellow.
-- Flavonoids are water-soluble phenolic compounds (having a $-OH$ group attached to an aromatic ring)
+- The name stems from the Latin word "_flavus_", which means yellow.
+- Flavonoids are water-soluble phenolic compounds (having a $-OH$ group attached to an aromatic ring).
 - More than 3,000 different flavonoids have been described.
-- They have general structure of 15 carbons skeleton (C6C3С6)
+- They have general structure of 15 carbons skeleton (C6C3С6).
 - Most important class of pigments for flower colouration, producing yellow or red/blue pigmentation.
 - On the basis of their chemical structure, these pigments are grouped in several classes:
 
 ##### Classification of Flavonoids
 
-| **Class**        | **Examples**                                   | **Food Sources**                                                                  |
-| ---------------- | ---------------------------------------------- | --------------------------------------------------------------------------------- |
-| **Flavonols**    | Quercetin, Kaempferol, Myricetin, Isorhamnetin | Onion, Apple, Craneberries, Tea, berries, Olives, Banana, Red wine, kale, lettuce |
-| **Flavonones**   | Naringenin, Hesperitin                         | Orange, Lemon, Pineapple, Grapefruit                                              |
-| **Flavanols**    | Epicatechin, Catechin, EGC, EGC Theaflavin     | Lettuce, Blueberries, Grapes, Green tea, Black tea, Plums, Apples, Cranberries    |
-| **Flavones**     | Apigenin, Luteolin                             | Apple, Celery, lemon, parsley, oregano, beets                                     |
-| **Anthocyanins** | Cyanidin, Delphinidin, Malvidin, Petunidin     | Blueberries, cherries, grapes, raspberries, strawberries, cranberries             |
-| **Isoflavones**  | Genistein, Diadzein, Glycitien                 | Soyabeans, legumes                                                                |
+| **Class**        | **Examples**                                              | **Food Sources**                                                                 |
+| ---------------- | --------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| **Flavonols**    | Quercetin, Kaempferol, Myricetin, Isorhamnetin            | Onion, Apple, Cranberries, Tea, Berries, Olives, Banana, Red Wine, Kale, Lettuce |
+| **Flavonones**   | Naringenin, Hesperitin                                    | Orange, Lemon, Pineapple, Grapefruit                                             |
+| **Flavanols**    | Epicatechin, Catechin, Epigallocatechin (EGC), Theaflavin | Lettuce, Blueberries, Grapes, Green Tea, Black Tea, Plums, Apples, Cranberries   |
+| **Flavones**     | Apigenin, Luteolin                                        | Apple, Celery, Lemon, Parsley, Oregano, Beets                                    |
+| **Anthocyanins** | Cyanidin, Delphinidin, Malvidin, Petunidin                | Blueberries, Cherries, Grapes, Raspberries, Strawberries, Cranberries            |
+| **Isoflavones**  | Genistein, Diadzein, Glycitien                            | Soyabeans, Legumes                                                               |
 
-#### 2. Anthocyanins
+#### 3. Anthocyanins
 
-- Greek anthos, a flower, and kyanos, dark blue
+- The term anthocyanin is derived from the Greek words _anthos_ (flower) and _kyanos_ (dark blue).
 - Anthocyanins are water-soluble pigments belonging to family of **flavonoids**.
 - The colour of anthocyanin-rich fruits and vegetables vary from vivid red as in strawberry, purple as in eggplant, and dark blue as in blueberry.
 - Anthocyanins are found in fruits (especially berries), vegetables, nuts, grains, roots, and flowers. Major sources are purple grapes, cherry, plum, raspberry, strawberry, blackberry, blueberry, black currant, cranberry, chokeberry, red cabbage, and red wine
 - Over 500 different anthocyanins have been isolated from plants. They are all based on a single basic core structure, the **flavylium ion**.
-- 7 different side groups on the flavylium ion. These side groups can be **$-H$**, **$-OH$** or **methoxy-group ($-OCH_3$)**. These form **anthocyanidins**
+- The flavylium ion can have different side groups at seven possible positions. These groups—typically $−H$, $−OH$, or methoxy groups ($−OCH_3$) determine the identity and properties of the resulting **anthocyanidins**.
 - When **anthocyanidins are coupled to sugars, anthocyanins are formed**. As sugars can be coupled at different places and many different sugars are present in plants, it is clear that a very large range of anthocyanins can be formed. Different groups attached give different colours.
 
 <figure>
@@ -164,20 +164,24 @@ The green colour of vegetables and fruits, due to the presence of chlorophyll, i
   <figcaption>Figure 3: General anthocyanins structure</figcaption>
 </figure>
 
-<figure>
-  <img src="image4.png" alt="">
-  <figcaption>Figure 4:</figcaption>
-</figure>
+| Name         | Abbreviation | $R_1$ | $R_2$ | $R_3$ | $R_4$ | $R_5$ | $R_6$ | $R_7$ |
+| ------------ | ------------ | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+| Cyanidin     | Cy           | OH    | OH    | H     | OH    | OH    | OH    | H     |
+| Delphinidin  | Dp           | OH    | OH    | H     | OH    | OH    | OH    | OH    |
+| Malvidin     | Mv           | OH    | OH    | H     | OH    | OMe   | OH    | OMe   |
+| Pelargonidin | Pg           | OH    | OH    | H     | OH    | H     | OH    | H     |
+| Peonidin     | Pn           | OH    | OH    | H     | OH    | OMe   | OH    | H     |
+| Petunidin    | Pt           | OH    | OH    | H     | OH    | OMe   | OH    | OH    |
 
 <figure>
-  <img src="image5.png" alt="Sugar attached to anthocyanidin forming anthocyanin">
-  <figcaption>Figure 5: Sugar attached to anthocyanidin forming anthocyanin</figcaption>
+  <img src="image4.png" alt="Sugar attached to anthocyanidin forming anthocyanin">
+  <figcaption>Figure 4: Sugar attached to anthocyanidin forming anthocyanin</figcaption>
 </figure>
 
 - Substitution of the hydroxyl and methoxyl groups affects the colour of the anthocyanins.
 - An increase in the number of hydroxyl groups tends to deepen the colour to a more bluish shade. An increase in the number of methoxyl groups increases redness.
 - Increased hydroxylation decreases the stability; increased methylation increases the stability of anthocyanins.
-- Application of anthocyanins in foods is restricted due to their ability to participate in no. of reactions resulting in decolorisation, eg- reaction with ascorbic acid, hydrogen peroxide, oxygen, sulfur dioxide.
+- Application of anthocyanins in foods is restricted due to their ability to participate in a number of reactions resulting in decolorisation, e.g. - reaction with ascorbic acid, hydrogen peroxide, oxygen, sulfur dioxide.
 - Changes in anthocyanin during processing involve polymerization (browning) or cleavage (loss of colour).
 
 ##### Effect of heat on anthocyanins
@@ -192,34 +196,34 @@ The green colour of vegetables and fruits, due to the presence of chlorophyll, i
 - They are more stable at **lower pH**. Thus anthocyanins are best suited for low pH foods.
 
 <figure>
-  <img src="image6.png" alt="Alt text">
-  <figcaption>Figure 6 :</figcaption>
+  <img src="image5.png" alt="Alt text">
+  <figcaption>Figure 5 :</figcaption>
 </figure>
 
-- **Oxidation**: presence of unsaturation makes it susceptible to oxidation changing the colour from purple to brown.
+- **Oxidation**: Presence of unsaturation makes it susceptible to oxidation changing the colour from purple to brown.
 - At higher concentration of $SO_2$ i.e. 0.8-1.5%, bleaching of anthocyanins takes place.
 - Some metal ions such as $Ca$, $Al$, $Fe$ and $Sn$ protect the pigment from discolouration by forming complexes.
-- **Enzymes**: like glycosidases and polyphenol oxidases hydrolyzes glycosidic linkages yielding sugars and aglycones characterized by discolouration.
+- **Enzymes**: Like glycosidases and polyphenol oxidases hydrolyzes glycosidic linkages yielding sugars and aglycones characterized by discolouration.
 - Stability is higher at lower water activity i.e. 0.63 to 0.79.
 - They are also susceptible to photodegradation.
 
-#### 3. Carotenoids
+#### 4. Carotenoids
 
-- Carotenoids are **water insoluble/ lipid soluble** pigments found in all higher plants, algae, bacteria and some animals.
-- Animals cannot synthesize carotenoids; their presence is due to dietary intake. Ex- Pink salmon colour is due to carotenoids.
-- It is derived from the work **‘carota’** which means carrot.
+- Carotenoids are **water insoluble/lipid soluble** pigments found in all higher plants, algae, bacteria and some animals.
+- Animals cannot synthesize carotenoids; their presence is due to dietary intake. E.g. - Pink salmon colour is due to carotenoids.
+- It is derived from the word **‘carota’** which means carrot.
 - Some 600 different carotenoids are known to occur naturally, and new carotenoids continue to be identified.
 - They are responsible for **red, orange** and **yellow colours** of plants and animal foods.
-- Plants such as carrots, tomato, alfalfa, vegetable oils, apricots, dark green leafy vegetables, kale, spinach, broccoli, nettle etc. are source of carotenoids.
-- They play important role in photosynthesis and photo protection in plant tissues (ability to quench and inactive reactive $O_2$ species formed by exposure to light and air.
-- Specific carotenoids (in plants) serve as precursor of abscisic acid (chemical messengers and growth regulator)
-- They serve as **precursors of vitamin A**
+- Plants such as carrots, tomato, alfalfa, vegetable oils, apricots, dark green leafy vegetables, kale, spinach, broccoli, nettle, etc. are source of carotenoids.
+- They play important role in photosynthesis and photo protection in plant tissues (ability to quench and inactive reactive $O_2$ species formed by exposure to light and air).
+- Specific carotenoids (in plants) serve as precursor of abscisic acid (chemical messengers and growth regulator).
+- They serve as **precursors of vitamin A**.
 
 ##### Chemical structure
 
-- Carotenoids are lipid-soluble C40 tetraterpenoids. Majority carotenoids are derived from a 40- carbon polyene chain, which is backbone of molecule.
+- Carotenoids are lipid-soluble C40 tetraterpenoids. Majority carotenoids are derived from a 40-carbon polyene chain, which is the backbone of the molecule.
 - This chain may be terminated by cyclic end-groups (rings) and may be complemented with oxygen-containing functional groups.
-- Basic carotenoid structural backbone comprises of **8 isoprene** units linked covalently in either heat-to-tail or tail-to-tail fashion. The 8 isoprenoids units joined in such a manner that the arrangement of isoprenoid units is reversed in the center of the molecule.
+- Basic carotenoid structural backbone comprises of **8 isoprene** units linked covalently in either head-to-tail or tail-to-tail fashion. The 8 isoprenoids units joined in such a manner that the arrangement of isoprenoid units is reversed in the center of the molecule.
 
   > **Isoprene**: (2-methyl- 1,3-butadiene) ($C_5H_8$) is an unsaturated hydrocarbon. It is produced by many
 
@@ -227,12 +231,12 @@ The green colour of vegetables and fruits, due to the presence of chlorophyll, i
   >
   > **Tetraterpenoids**: (including many carotenoids) are tetraterpenes that presence of oxygen-containing functional groups.
 
-- All carotenoids may be derived from the acyclic $C_{40}H_{56}$
-- Carotenoids in which the carbon skeleton has been shortened by removal of fragments from one or both ends of the usual $C_{40}$ structure are called **apocarotenoids**. Natural examples are **bixin**, the major pigment of annatto, and **crocetin**, the main colouring component of saffron
+- All carotenoids may be derived from the acyclic $C_{40}H_{56}$.
+- Carotenoids in which the carbon skeleton has been shortened by removal of fragments from one or both ends of the usual $C_{40}$ structure are called **apocarotenoids**. Natural examples are **bixin**, the major pigment of annatto, and **crocetin**, the main colouring component of saffron.
 
 <figure>
-  <img src="image7.png" alt="">
-  <figcaption>Figure 7: </figcaption>
+  <img src="image6.png" alt="">
+  <figcaption>Figure 6: </figcaption>
 </figure>
 
 - The carotenoids most commonly encountered in foods are $\beta$-carotene, $\alpha$-carotene, $\beta$-cryptoxanthin, lycopene, lutein, and zeaxanthin, astaxanthin, and various others.
@@ -241,12 +245,12 @@ The green colour of vegetables and fruits, due to the presence of chlorophyll, i
 
 Carotenoids are classified according to the structure as follows:
 
-1. Hydrocarbon carotenoids which are known as **carotenes**. Ex- $\beta$-carotene, Lycopene
-2. Oxygenated carotenoids which are derivatives of these hydrocarbons known as **xanthophylls**, Ex- zeaxanthin and lutein (hydroxy), spirilloxanthin (methoxy), echinenone (oxo), and antheraxanthin (epoxy).
+1. Hydrocarbon carotenoids which are known as **carotenes**. E.g. - $\beta$-carotene, Lycopene.
+2. Oxygenated carotenoids which are derivatives of these hydrocarbons known as **xanthophylls**, E.g. - zeaxanthin and lutein (hydroxy), spirilloxanthin (methoxy), echinenone (oxo), and antheraxanthin (epoxy).
 
 > **Fun Fact**: Lutein and Zeaxanthin are found in lens and retina of the eyes. They are concentrated in macula or central region of the retina, and are referred to as macular pigment.
 
-Some major carotenoids and their food sources
+_Some major carotenoids and their food sources_
 
 | **Carotenoids**                                                                | **Food Source**                                                                                        |
 | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
@@ -255,10 +259,10 @@ Some major carotenoids and their food sources
 | **Lycopene**                                                                   | Tomato, watermelon, pink fleshed guava, red peppers, pink grapefruit                                   |
 | **$\alpha$-carotene**                                                          | Sweet potato, carrot, kale, spinach, lettuce, broccoli                                                 |
 | **Xanthophylls**                                                               |                                                                                                        |
-| **$\beta$-cryptoxanthin**                                                      | orange-fleshed fruits- Peppers, pumpkin, squash, persimmon, orange, papaya, peas, chilli               |
-| **Lutein**                                                                     | Leafy and green vegetables- Spinach, kale, lettuce, broccoli; corn, egg yolk, marigold                 |
+| **$\beta$-cryptoxanthin**                                                      | Orange-fleshed fruits, peppers, pumpkin, squash, persimmon, orange, papaya, peas, chilli               |
+| **Lutein**                                                                     | Leafy and green vegetables - spinach, kale, lettuce, broccoli, corn, egg yolk, marigold                |
 | **Zeaxanthin**                                                                 | Corn, some variety of squash, persimmon, spinach, egg yolk, green peas, citrus fruits, peaches, papaya |
-| **Astaxanthin**                                                                | Fish and crustaceans- Salmon, shrimp, trout, lobster; fish eggs; green algae                           |
+| **Astaxanthin**                                                                | Fish and crustaceans - salmon, shrimp, trout, lobster, fish eggs, green algae                          |
 | **Capsanthin**                                                                 | Peppers, paprika                                                                                       |
 | **Curcumin**                                                                   | Turmeric                                                                                               |
 | **Apocarotenoids**                                                             |                                                                                                        |
@@ -268,14 +272,14 @@ Some major carotenoids and their food sources
 
 - Carotenoids are susceptible to oxidation due to their conjugated polyene chain.
 - Thermal treatments of carotenoids in the presence of oxygen results in formation of volatile compounds, large non-volatile compounds, cis isomers and oxidation products.
-- Exposure of carotenoids to acids produces ion pairs which later disassociates to carotenoids carbocation.
-- Oxidation of carotenoids by free radicals such as singlet oxygen leads to formation of $\beta$ carotene 5,8 –endoperoxide and $\beta$ carotene- 5,6 epoxide.
+- Exposure of carotenoids to acids produces ion pairs, which later dissociate into carotenoid carbocations.
+- Oxidation of carotenoids by free radicals such as singlet oxygen leads to formation of $\beta$ carotene 5,8 – endoperoxide and $\beta$ carotene - 5,6 epoxide.
 
-#### 4. Betalains
+#### 5. Betalains
 
 - Betalains are **water-soluble** nitrogen-containing pigments.
-- Betalains pigments are found in red beet, cactus fruits, amaranth leaves and in some flowers.
-- They are stable to pH range 3-7 but degraded by thermal processing. Unlike anthocyanins, betalains do not change in hue in response to differences in the pH of foods and beverages
+- Betalain pigments are found in red beet, cactus fruits, amaranth leaves and in some flowers.
+- They are stable at pH range 3-7 but are degraded by thermal processing. Unlike anthocyanins, betalains do not change in hue in response to differences in the pH of foods and beverages.
 - Consists of 2 categories:
   1. **Betacyanins: red to red-violet** pigments. Include betanin, isobetanin, amaranthine and iso-amaranthine.
   2. **Betaxanthins: yellow-orange** pigments. Include vulgaxanthin, miraxanthin, portulaxanthin, and indicaxanthin.
@@ -283,81 +287,81 @@ Some major carotenoids and their food sources
 - They are immonium conjugates of betalamic acid with cyclo-dopa [cyclo-3-(3,4-dihydroxyphenylalanine)] or amino compounds.
 - Each betalain is a glycoside, and consists of a sugar and a coloured portion.
 - Hydrolysis of betacyanin leades to either betanidin or isobetanidin or a mixture of the two.
-- Betaxanthin are present as indicaxanthin (contains amino acid proline), vulgaxanthin I and II (contains glutamic acid)
+- Betaxanthin are present as indicaxanthin (contains amino acid proline), vulgaxanthin I and II (contains glutamic acid).
+
+<figure>
+  <img src="image7.png" alt="">
+  <figcaption>Figure 7: </figcaption>
+</figure>
+
+- Under mild alkaline conditions, betanin degrades to betalamic acid and cyclo-DOPSA-5 O glucoside. These products are also formed during heating of acidic betanin solution or during thermal processing of products containing beetroot, but more slowly.
+- Decrease in water activity will decrease the degradation rate of betalains.
+
+#### 6. Tannins
+
+- Tannins are generally defined as water soluble, astringent complex phenolic substances of plant origin.
+- Tannins are either hydrolyzable or condensed. **Hydrolyzable** tannins are based on gallic acid; **Condensed** tannins (are colourless), often called proanthocyanidins are based on flavonoid monomers, flavone derivatives, or quinine units.
+- Tannins range in colour from **yellowish–white to light brown**.
+- Bark of the oak tree and grape seeds are sources of tannins. They are found in juices squeezed from grapes, apples, and other fruits and brews from extraction of tea and coffee.
+- Tannins are responsible for astringency and flavour of beverages such as tea, wine, apple cider, etc.
+- Tannins react and form dark coloured complexes with metals.
+
+#### 7. Anthoxanthins
+
+- Anthoxanthins are white, pale yellowish, water soluble pigments found in plant’s cell sap.
+- They are similar to anthocyanin, but it exists in less oxidized state as the oxygen on the central group is uncharged.
+- It is actually a composite of compounds known as flavones, flavonols and flavanones.
+- They contribute the cream and white colour of cauliflower, onions, white potatoes and turnips.
+- Short cooking is desired. With prolonged heat, the pigment turns into a brownish grey colour.
+
+#### 8. Quinones and Xanthones
+
+- They are found in cell sap of flowering plants, fungi, bacteria and algae. Their colour ranges from pale yellow to black.
+- Most quinones are bitter in taste. Their contribution to plant colours is minimal.
+- Quinones are oxidized derivatives of aromatic compounds.
+- E.g. of quinones - benzoquinones, naphthoquinones, anthraquinones.
+- Compounds with complex substitutes such as naphthoquinones and anthraquinones have deep purple to black hues.
+
+#### 8. Haem Compounds (Myoglobin)
+
+- Haem compounds are responsible for the colour of the meat. The main pigment is **myoglobin (Mb)**. The blood pigment **heamoglobin (Hb)** is of 2nd degree importance.
+- Since blood is removed by slaughter, Mb is responsible for about 90% of flesh colour.
+- Myoglobin is the sarcoplasmic haem protein primarily responsible for the meat colour.
+- Myoglobin stores oxygen in muscle cells and is similar to heamoglobin that stores oxygen in blood cells. The more myoglobin content meat contains, the darker red it will appear in colour.
+- It is a globular protein and has a single polypeptide chain.
+- Chromophore component responsible for light absorption and colour is porphyrin known as **haem**. The protein part of the molecule is known as globin.
+
+  Mb $\rightarrow$ Globin + Haem complex
+
+- A centrally located ‘$Fe$’ atom is complexed with 4 tetrapyrrole N-atom.
 
 <figure>
   <img src="image8.png" alt="">
   <figcaption>Figure 8: </figcaption>
 </figure>
 
-- Under mild alkaline conditions betanin degrades to betalamic acid and cyclo-DOPSA-5 O glucoside. These products are also formed during heating of acidic betanin solution or during thermal processing of products containing beetroot, but more slowly.
-- Decrease in water activity will decrease the degradation rate of betalains.
-
-#### 5. Tannins
-
-- Tannins are generally defined as water soluble, astringent complex phenolic substances of plant origin.
-- Tannins are either hydrolyzable or condensed. **Hydrolyzable** tannins are based on gallic acid; **Condensed** tannins (are colourless), often called proanthocyanidins are based on flavonoid monomers, flavones derivatives, or quinine units.
-- Tannins range in colour from **yellowish –white to light brown**.
-- Bark of the oak tree and grape seeds are sources of tannins. They are found in juices squeezed from grapes, apples, and other fruits and brews from extraction of tea and coffee.
-- Tannins are responsible for astringency and flavour of beverages such as tea, wine, apple cider etc.
-- Tannins react and form dark coloured complexes with metals.
-
-#### 6. Anthoxanthins
-
-- Anthoxanthins are white, pale yellowish, water soluble pigments found in a plant’s cell sap.
-- Anthoxanthin is a pigment and is similar to anthocyanin, but it exists in less oxidized state as the oxygen on the central group is uncharged.
-- It is actually a composite of compounds known as flavones, flavonols and flavanones.
-- They contribute the cream and white colour of cauliflower, onions, white potatoes and turnips.
-- Short cooking is desired. With prolonged heat, the pigment turns into a brownish grey colour.
-
-#### 7. Quinones and Xanthones
-
-- They are found in cell sap of flowering plants, fungi, bacteria and algae. Their colour ranges from pale yellow to black.
-- Most quinones are bitter in taste. Their contribution to plant colours is minimal.
-- Quinones are oxidized derivatives of aromatic compounds.
-- Ex of quinones- benzoquinones, naphthoquinones, anthraquinones.
-- Compounds with complex substitutes such as naphthoquinones and anthraquinones have deep purple to black hues.
-
-#### 8. Heme Compounds (Myoglobin)
-
-- Heme compounds are responsible for the colour of the meat. The main pigment is **myoglobin (Mb)**. The blood pigment **hemoglobin (Hb)** is of 2nd degree importance.
-- Since blood is removed by slaughter, Mb is responsible for about 90% of flesh colour.
-- Myoglobin is the sarcoplasmic heme protein primarily responsible for the meat colour.
-- Myoglobin stores oxygen in muscle cells and is similar to hemoglobin that stores oxygen in blood cells. The more myoglobin content meat contains the darker red it will appear in colour.
-- It is a globular protein, has single polypeptide chain.
-- Chromophore component responsible for light absorption and colour is porphyrin known as **‘heme’**. The protein part of the molecule is known as globin.
-
-  Mb $\rightarrow$ Globin + Heme complex
-
-- A centrally located ‘Fe’ atom is complexed with 4 tetrapyrrole N-atom.
+- Meat colour is determined by its states of oxidation of iron, type of ligands bound to haem and state of globin.
+- Haem iron may exist in:
+  1. Reduced ferrous (+2)
+  2. Oxidized ferric (+3)
+- Haem myoglobin has different natural colours depending on its exposure to oxygen and the chemical state of the iron.
+- Freshly cut meat looks purplish. High partial pressure of $O_2$ favors **oxygenation (addition of oxygen molecule to the haem group)**, forming **Oxymyoglobin** (bright red colour).
+- At no oxygen or low $O_2$ partial pressures, Deoxymyoglobin and Metmyoglobin (brownish) are favored, respectively.
 
 <figure>
   <img src="image9.png" alt="">
   <figcaption>Figure 9: </figcaption>
 </figure>
 
-- Meat colour is determined by its states of oxidation of iron, type of ligands bound to heme and state of globin.
-- Heme iron may exist in:
-  1. Reduced ferrous (+2)
-  2. Oxidized ferric (+3)
-- Heme Myoglobin has different natural colours depending on its exposure to oxygen and the chemical state of the iron.
-- Freshly cut meat looks purplish. High partial pressure of $O_2$ favors **oxygenation (addition of oxygen molecule to the heme group)**, forming **Oxymyogloin** (bright red colour).
-- At no oxygen or low $O_2$ partial pressures, Deoxymyoglobin and Metmyoglobin (brownish) are favored, respectively.
-
-<figure>
-  <img src="image10.png" alt="">
-  <figcaption>Figure 10: </figcaption>
-</figure>
-
 - Oxidation occurs more rapidly at low pH values. Presence of trace metals ($Cu^{2+}$) promote oxidation.
-- When meat is cooked, the protein moiety (globin) of myoglobin is denatured and the heme is converted chiefly to **nicotinamide hemichrome**, the entire pigment acquiring a brown hue. These changes are irreversible.
+- When meat is cooked, the protein moiety (globin) of myoglobin is denatured and the haem is converted chiefly to **nicotinamide hemichrome**, the entire pigment acquiring a brown hue. These changes are irreversible.
 
 ##### Reaction of myoglobin
 
-- $H_2O_2$ (from bacterial growth) can react with $Fe^{2+}$ or $Fe^{3+}$ of heme resulting in **‘choleglobin’** (green coloured)
+- $H_2O_2$ (from bacterial growth) can react with $Fe^{2+}$ or $Fe^{3+}$ of haem resulting in **‘choleglobin’** (green coloured).
 - In presence of $H_2S$ (from bacterial growth) and $O_2$, **sulfmyoglobin** (green coloured) can form.
-- During curing, $NO$ (nitric oxide) and Myoglobin react to produce **nitric oxide myoglobin** ($MbNO_2$) also known as **nitrosylmyoglobin** (bright red in colour) and is unstable. Upon heating, the more stable nitric oxide myohemochromogen (nitrosylhemochrome) forms (desired pink colour of cured meat).
-- Nitrite can interact with Metmyoglobin. In presence of excess nitrous acid, **nitrimyoglobin** ($NMb$) will form. Upon heating in reducing conditions, $NMb$ converted to nitrihemin (green colour). This defect is called ‘nitrite burn’.
+- During curing, $NO$ (nitric oxide) and myoglobin react to produce **nitric oxide myoglobin** ($MbNO_2$) also known as **nitrosylmyoglobin** (bright red in colour) and is unstable. Upon heating, the more stable nitric oxide myohemochromogen (nitrosylhemochrome) forms (desired pink colour of cured meat).
+- Nitrite can interact with metmyoglobin. In presence of excess nitrous acid, **nitrimyoglobin** ($NMb$) will form. Upon heating in reducing conditions, $NMb$ is converted to nitrihemin (green colour). This defect is called ‘nitrite burn’.
 
 _Summary of various coloured compounds formed by myoglobin_
 
