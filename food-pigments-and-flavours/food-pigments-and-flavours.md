@@ -495,7 +495,7 @@ _Summary of various coloured compounds formed by myoglobin_
 #### 8. Sulphur compounds
 
 - Sulphur compounds are exceptionally odour-active.
-- **Sulphide** - Simple sulphides such as **Dimethyl sulphide** is important for fruit flavours, but also at certain concentrations gives the smell of the sea as well as sweet corn and asparagus aromas.
+- **Sulphide** - Simple sulphides such as **Dimethyl sulphide** are important for fruit flavours, but also at certain concentrations gives the smell of the sea as well as sweet corn and asparagus aromas.
 - E.g. - **Allyl methyl sulphide** and **1-propenal sulphides** present in garlic and onion.
 - Cutting or crushing of garlic clove causes allinase-mediated conversion of S-allylcysteine sulphoxide to **allicin**. Decomposition of allicin yields **diallyl sulphide (DAS), diallyl disulphide (DADS), and diallyl trisulphide (DATS)**.
 - Degradation of sulphur compounds cause aroma of cooked _Brassica_ (cabbage family) and _Allium_ (onion, garlic, shallot, leek etc.) vegetables.
