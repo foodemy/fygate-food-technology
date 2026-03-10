@@ -522,7 +522,7 @@ The unique flavour of chocolate and cocoa is due to the formation of
   > - **5-Methyl-2-phenyl-2-hexenal** contributes to the distinctive flavour of chocolate and cocoa. The flavour compound 5-methyl-2-phenyl-2-hexenal is a member of **phenylacetaldehydes**. This compound is naturally present in cocoa beans and is considered to be the main component responsible for their characteristic aroma. It gives a distinctive cocoa aroma with mocha undertones and this compound is excellent for adding creamy cocoa, chocolatey notes and enhancing fragrances.
   > - **Cyclotene**, also known as methyl cyclopentenolone, has a nutty, licorice, or caramellic flavour and odour. Cyclotene is also present in peanuts and roasted products like almond and coffee. Methyl cyclopentenolone is found very widely in **nature**, especially in foods containing sugars that have been subjected to heat.
   > - **Furaneol** is a natural compound that is found in many fruits, including strawberries, pineapples, raspberries, kiwis, lychees, tomatoes, etc. It is also found in fermented products like soy sauce, soy paste, wines, and beer.
-  > - **Maltol** is a polyol or sugar alcohol that is used as a sugar substitute and laxative. It is a flavour enhancer and food additive with a caramel-like taste and a burnt sugar aroma. It is naturally present in pine needles, chicory, cloves, ginseng, licorice and in roasted malt - from which it gets its name.
+  > - **Maltol** is a naturally occurring organic compound (3-hydroxy-2-methyl-4H-pyran-4-one) used as a flavour enhancer in foods and beverages. It has a caramel-like taste and a burnt sugar aroma. It is naturally present in pine needles, chicory, cloves, ginseng, licorice and in roasted malt - from which it gets its name.
 
 ---
 
