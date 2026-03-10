@@ -379,41 +379,41 @@ _Summary of various coloured compounds formed by myoglobin_
 
 ### Introduction
 
-- Flavor is the sensation produced by a material taken in the mouth, perceived principally by the senses of taste and smell, and also by the general pain, tactile and temperature receptors in the mouth.
-- Flavor is composed of taste and odor.
+- Flavour is the sensation produced by a material taken in the mouth, perceived principally by the senses of taste and smell, and also by the general pain, tactile and temperature receptors in the mouth.
+- Flavour is composed of taste and odour.
 - Compounds responsible for taste are generally non-volatile at room temperature. They interact with taste receptors in taste buds of tongue.
 - Aroma substances are volatile compounds, perceived by odour receptor sites of smell organs i.e. olfactory tissues of nasal cavity.
-- A vast number of compounds are responsible for the aroma of the food products, such as aldehydes, esters, alcohols, methyl ketones, lactones, phenolic compounds, dicarbonyls, short- and medium-chain free fatty acids and sulphur compounds
+- A vast number of compounds are responsible for the aroma of the food products, such as aldehydes, esters, alcohols, methyl ketones, lactones, phenolic compounds, dicarbonyls, short and medium-chain free fatty acids and sulphur compounds.
 
 #### Classification of aroma compounds
 
-- Based on functional group: aldehydes, ketones, alcohols, esters, phenols, terpenes, amines, sulfur based compounds etc.
+- Based on functional group: aldehydes, ketones, alcohols, esters, phenols, terpenes, amines, sulfur based compounds, etc.
 
 | **Aroma Compound** | **Examples**                                                        | **Food Source**                                                 |
 | ------------------ | ------------------------------------------------------------------- | --------------------------------------------------------------- |
 | **Aldehydes**      | **Acetaldehyde (pungent)**                                          | Yoghurt, butter                                                 |
-|                    | **benzaldehyde**                                                    | almond                                                          |
+|                    | **Benzaldehyde**                                                    | Almond                                                          |
 |                    | **Cinnamaldehyde**                                                  | Cinnamon                                                        |
 |                    | **Phenylacetaldehydes (5-methyl-2-phenyl-2-hexenal)**               | Chocolate                                                       |
 | **Esters**         | **Octyl acetate**                                                   | Orange                                                          |
 |                    | **Ethyl acetate (Fruity)**                                          | Ripe fruits                                                     |
 |                    | **Allyl hexanoate**                                                 | Pineapple                                                       |
-|                    | **Ethyl butanoate** **or ethyl butyrates**                          | Strawberries                                                    |
+|                    | **Ethyl butanoate** **or ethyl butyrates**                          | Strawberry                                                      |
 |                    | **Pentyl acetate**                                                  | Banana                                                          |
 |                    | **Methyl anthranilate**                                             | Grapes                                                          |
-| **Ketones**        | **Octenone**                                                        | Mushrooms                                                       |
+| **Ketones**        | **Octenone**                                                        | Mushroom                                                        |
 |                    | **Acetyl pyrroline**                                                | Fresh bread, aromatic cooked rice (such as Basmati and Jasmine) |
-|                    | **2,3-butanedione (diacetyl)**                                      | Butter, Yoghurt, creamy, butterscotch                           |
-|                    | **2-heptanone**                                                     | cheese, white bread, butter, beer                               |
-|                    | **Acetoin**                                                         | cultured dairy products                                         |
-|                    | **Methyl cyclopentenolone (or maple lactone/ cyclotene/ corylone)** | Roasted coffee, almonds and peanuts.                            |
+|                    | **2,3-butanedione (diacetyl)**                                      | Butter, yoghurt, cream, butterscotch                            |
+|                    | **2-heptanone**                                                     | Cheese, white bread, butter, beer                               |
+|                    | **Acetoin**                                                         | Cultured dairy products                                         |
+|                    | **Methyl cyclopentenolone (or maple lactone/ cyclotene/ corylone)** | Roasted coffee, almonds and peanuts                             |
 | **Terpenes**       | **Limonene**                                                        | Orange, citrus fruits                                           |
 |                    | **Menthol (terpene alcohol)**                                       | Mint                                                            |
-|                    | **Carvone**                                                         | caraway                                                         |
+|                    | **Carvone**                                                         | Caraway                                                         |
 |                    | **Nerol and Geraniol**                                              | Lemons and citrus                                               |
 |                    | **Citral**                                                          | Lemon grass                                                     |
 | **Amines**         | **Trimethyl amine**                                                 | Fish                                                            |
-| **Alcohols**       | **furaneol**                                                        | Strawberry                                                      |
+| **Alcohols**       | **Furaneol**                                                        | Strawberry                                                      |
 |                    | **Menthol (terpene alcohol)**                                       | Peppermint                                                      |
 |                    | **1-octen-3-ol**                                                    | Mushroom                                                        |
 |                    | **Geosmin**                                                         | Beetroot                                                        |
@@ -422,20 +422,20 @@ _Summary of various coloured compounds formed by myoglobin_
 | **Thiol**          | **2-Methyl-3-furanthiol**                                           | Cooked meat                                                     |
 | **Sulfides**       | **Diallyl disulfide, allicin**                                      | Garlic                                                          |
 
-### Types of flavors
+### Types of flavours
 
 #### 1. Aldehydes
 
 - ($-CHO$) carbonyl functional group.
 - Component of many fruit flavourings. Common in all types of fruits, and the longer chain aldehydes, being lipid-derived, are abundant in meats, fish and fried snacks.
 - C3–C5 aldehydes (propanal, butanal and pentanal) tend to have a **chemical/malty/green** note to them that is hard to define.
-- Branched chain C5 aldehydes, namely, 2- and 3-methylbutanal, found in most cooked foods as well as in fresh fruits and vegetables. They have **chemical** note.
+- Branched chain C5 aldehydes, namely, 2- and 3-methylbutanal, found in most cooked foods as well as in fresh fruits and vegetables. They have a **chemical** note.
 - **Cis-3-hexenal** gives a particularly fresh note to tomatoes, pomegranate, oranges and apples as well as freshly picked coriander.
-- **Acetaldehyde** is a metabolic end product during fermentation of milk to yogurt. Pure acetaldehyde possesses a **pungent** irritating odor but at dilute concentrations it gives a **pleasant fruity aroma**. Acetaldehyde imparts yogurt its characteristic green apple or nutty flavor.
-- Aldehydes containing an aromatic ring- **benzaldehyde** (cherry, almond), **phenylacetaldehyde** (rose, honey) and **cinnamaldehyde** (cinnamon).
-- Most ubiquitous of all aroma compounds, **Vanillin**, is aldehyde (4-hydroxy-3- methoxybenzaldehyde).
+- **Acetaldehyde** is a metabolic end product during fermentation of milk to yoghurt. Pure acetaldehyde possesses a **pungent** irritating odour but at dilute concentrations it gives a **pleasant fruity aroma**. Acetaldehyde imparts yoghurt its characteristic green apple or nutty flavour.
+- Aldehydes containing an aromatic ring - **benzaldehyde** (cherry, almond), **phenylacetaldehyde** (rose, honey) and **cinnamaldehyde** (cinnamon).
+- Most ubiquitous of all aroma compounds, **vanillin**, is an aldehyde (4-hydroxy-3- methoxybenzaldehyde).
 - Aldehydes very readily react with alcoholic solvents to form **acetals**. Acetals are abundant in alcoholic beverages, as well as being formed in many alcohol-based flavourings. The aroma of the acetal is often similar to that of the corresponding aldehydes, but they tend to be less potent.
-- Presence of aldehydes in the **off-flavor compounds** (rancidity of foods) is well known. Aldehydes are characteristic compounds of secondary oxidation in the autoxidative process of fats, oils, lipidic foods and biological membranes.
+- Presence of aldehydes in the **off-flavour compounds** (rancidity of foods) is well known. Aldehydes are characteristic compounds of secondary oxidation in the autoxidative process of fats, oils, lipidic foods and biological membranes.
 
 #### 2. Ketones
 
@@ -443,33 +443,33 @@ _Summary of various coloured compounds formed by myoglobin_
 - The straight-chain methylketones, containing one carbonyl group in the 2-position, e.g. **2-heptanone** (found in cheese, white bread, butter, beer), impart both a **blue cheese** and a **fruity pear aroma**, whereas 3-octanone produces **earthy, mushroom** notes.
 - Compounds such as **2,3-butanedione (diacetyl)** and **2,3-pentanedione** provide buttery, creamy notes in many cooked foods.
 - **Diacetyl** is a diketone, derived by the fermentation of citrate present in milk and dairy mixes.
-- **Diacetyl** is an important aroma compound that gives the **buttery** flavor, and contributes to the delicate, full flavor and aroma of yogurt. It is especially important for products that contain low acetaldehyde concentrations.
-- Some of the more structurally complex ketones have a key role in aroma: For example, (E)-5-methyl-2-hepten4-one (**filbertone**) is a character impact compound of **hazelnuts**, 6,10-dimethylundeca-5,9-dien-2-one (**geranyl acetone**) is present in many **fruits** and imparts a **floral rose aroma** and 4-(4-hydroxyphenyl) butan-2-one (**raspberry ketone**) has been isolated from raspberries and imparts a characteristic sweet, raspberry milkshake aroma.
+- **Diacetyl** is an important aroma compound that gives the **buttery** flavour, and contributes to the delicate, full flavour and aroma of yoghurt. It is especially important for products that contain low acetaldehyde concentrations.
+- Some of the more structurally complex ketones have a key role in aroma. For example, (E)-5-methyl-2-hepten-4-one (**filbertone**) is a character impact compound of **hazelnuts**, 6,10-dimethylundeca-5,9-dien-2-one (**geranyl acetone**) is present in many **fruits** and imparts a **floral rose aroma** and 4-(4-hydroxyphenyl) butan-2-one (**raspberry ketone**) has been isolated from raspberries and imparts a characteristic sweet, raspberry milkshake aroma.
 - The carotenoid-derived ketones such as **$\beta$-ionone** (also important in raspberries) and **$\beta$-damascenone** provide, respectively, a pippy note in orchard fruits and deep juicy notes in, for example, berries, tomatoes and apples. Both were found to give woody notes to red peppers.
-- **Acetoin** is a common flavor substance in many cultured dairy products. Acetoin has a mild creamy, slightly sweet, butter-like flavor that is similar to that of diacetyl. Diacetyl combined with acetoin imparts the mild, pleasant, buttery taste, and they are critical to the rich perception of yogurt.
-- **Acetone** and **2-butanone** are both contributed by milk and are volatile compounds of minor importance to flavor contribution in milk products.
-- Acetone has a sweet, fruity aroma and 2-butanone contributes to the “fruity” flavor. Although each of these carbonyl compounds constitutes a recognizable aroma alone, yogurt flavor is determined by a balanced mixture.
-- **Methyl Cyclopentenolone (MCP) (or maple lactone, cyclotene, and corylone)** has strong caramel aroma, can be used for flavor and sweetness enhance. It is present in foods containing sugars that have been subjected to heat, and has a cooked sugar profile with strong caramel aroma.
+- **Acetoin** is a common flavour substance in many cultured dairy products. Acetoin has a mild creamy, slightly sweet, butter-like flavour that is similar to that of diacetyl. Diacetyl combined with acetoin imparts the mild, pleasant, buttery taste, and they are critical to the rich perception of yoghurt.
+- **Acetone** and **2-butanone** are both contributed by milk and are volatile compounds of minor importance to flavour contribution in milk products.
+- Acetone has a sweet, fruity aroma and 2-butanone contributes to the “fruity” flavour. Although each of these carbonyl compounds constitutes a recognizable aroma alone, yoghurt flavour is determined by a balanced mixture.
+- **"Methyl Cyclopentenolone (MCP)—also known as maple lactone, cyclotene, or corylone\*** possesses a powerful caramel aroma and is used to enhance both flavor and sweetness. It is found in foods containing sugars that have been subjected to heat, providing a characteristic 'cooked sugar' profile.
 
 #### 3. Esters
 
 - Result of reaction between carboxylic acid and alcohol.
 - They are fundamental to the aroma of **most fruits**, for example, melons, apples, pineapple and strawberries.
-- Ex- **ethyl acetate-** present in most ripe or ripening fruits.
+- E.g. - **ethyl acetate-** present in most ripe or ripening fruits.
 - Ethyl esters are major components of fruit aroma, particularly ripe fruit where the production of ethanol has boosted their formation.
 - **Ethyl butanoate or ethyl butyrates** resembles **strawberry aroma** whilst **ethyl hexanoate** is characteristic of **fresh pineapple** and more tropical fruits. The longer chain ethyl esters become soapy, cheesy and waxy.
 - **3-methylbutyl acetate** is characteristic of **pear** or pear drops, **allyl hexanoate** is typically **pineapple**, cis-3-hexenyl butanoate imparts the green leafy aroma of the parent alcohol, and the C9 esters are important for melon aroma.
 - Esters also contribute to the more delicate aromas found in cured ham and some cheeses.
 
-#### 4. Terpenes and terpenoids
+#### 4. Terpenes and Terpenoids
 
 - Terpenes, terpenoids and sesquiterpenes are major components of essential oils and are responsible for the aroma of many fruits (particularly citrus), herbs and spices.
-- They are biosynthesised in plants from units of **isoprene** ($C_5H_8$) and can be linear, cyclic or polycyclic; however, those that are responsible for odour. Tend to contain **two or three isoprene units**.
-- Ex- **limonene**- has weak orangey citrus peel aroma
+- They are biosynthesised in plants from units of **isoprene** ($C_5H_8$) and can be linear, cyclic or polycyclic. However, those that are responsible for odour tend to contain **two or three isoprene units**.
+- E.g. - **limonene**- has weak orangey citrus peel aroma.
 - $\alpha$-thujene (woody) and sabinene (citrus) are present in fruits and spices.
 - Terpenoid alcohols such as **nerol** and **geraniol** (which are cis/trans isomers of each other) and **citronellol** and **linalool** (two isomers) provide delicate **lemon, rose and violet aromas**, which are abundant in herbs, spices and fruits and are essential to many flavourings.
-- **Menthol** is the most familiar of terpenoids, provide **minty note**, and also activating the cold-sensitive receptors in the oral cavity to produce a **cooling effect**.
-- **L-Carvone** is exists in two enantiomeric forms with different aroma properties. R-carvone smells of **spearmint** (and is extracted from Mentha spicata L.) whilst the S enantiomer accounts for 50% essential oils in **caraway seeds**.
+- **Menthol** is the most familiar of terpenoids, provide **minty note**, and also activates the cold-sensitive receptors in the oral cavity to produce a **cooling effect**.
+- **L-Carvone** exists in two enantiomeric forms with different aroma properties. R-carvone smells of **spearmint** (and is extracted from _Mentha spicata L._) whilst the S enantiomer accounts for 50% essential oils in **caraway seeds**.
 
   > Terpenes are simple hydrocarbons, while terpenoids are modified class of terpenes with different functional groups and oxidized methyl group moved or removed at various positions.
 
@@ -478,29 +478,29 @@ _Summary of various coloured compounds formed by myoglobin_
 #### 5. Alcohols and Phenols
 
 - Contribution to aroma tends to be less than for the aldehydes. The straight-chain alcohols are abundant in fruits, often **increasing with maturity**.
-- **Ex of alcohol**- 2-Methyl-1-propanol can be associated with brown apples and bruised fruit, **1-octen-3-ol** being a character impact compound in mushrooms, Geosmin gives a characteristic earthy, musty notes to beetroot.
-- **Ex of phenols- p-cresol** are particularly phenolic and **smoky**, terpene-derived **thymol** and **eugenol** provide flavor to thyme and clove, respectively, **Vanillin**- key constituent of vanilla is a phenol with that characteristic sweet vanilla aroma with smoky undertones.
+- **E.g. of alcohol**: 2-Methyl-1-propanol can be associated with brown apples and bruised fruit, **1-octen-3-ol** being a character impact compound in mushrooms, geosmin gives a characteristic earthy, musty notes to beetroot.
+- **E.g. of phenols: p-cresol** are particularly phenolic and **smoky**, terpene-derived **thymol** and **eugenol** provide flavour to thyme and clove, respectively, **vanillin** - key constituent of vanilla is a phenol with that characteristic sweet vanilla aroma with smoky undertones.
 
 #### 6. Amines
 
 - Simplest N-containing compounds are the amines, which are typically fishy and often impart an unpleasant ammoniacal note.
-- Ex- trimethylamine in fish; phenylethylamine in chocolates, nuts, citrus fruits and vinegar.
+- E.g. - trimethylamine in fish, phenylethylamine in chocolates, nuts, citrus fruits and vinegar.
 
 #### 7. Lactones
 
 - Lactones are cyclic (or intramolecular) esters that are potent aroma compounds formed from the corresponding hydroxy acid.
 - They tend to impart **peachy, creamy and coconut aromas**.
-- Ex- **$\gamma$-decalactone** is the major lactone in both peaches and nectarines, **Jasmine lactone** provides a floral petal-like aroma to green tea etc.
+- E.g. - **$\gamma$-decalactone** is the major lactone in both peaches and nectarines, **Jasmine lactone** provides a floral petal-like aroma to green tea, etc.
 
 #### 8. Sulfur compounds
 
-- Sulfur compounds are exceptionally odour-active
-- **Sulfide**- Simple sulfides such as **Dimethyl sulfide** is important for fruit flavours, but also at certain concentrations gives the smell of the sea as well as sweet corn and asparagus aromas.
-- Ex- **Allyl methyl sulfide** and **1-propenal sulfides** present in garlic and onion.
+- Sulfur compounds are exceptionally odour-active.
+- **Sulfide** - Simple sulfides such as **Dimethyl sulfide** is important for fruit flavours, but also at certain concentrations gives the smell of the sea as well as sweet corn and asparagus aromas.
+- E.g. - **Allyl methyl sulfide** and **1-propenal sulfides** present in garlic and onion.
 - Cutting or crushing of garlic clove causes allinase-mediated conversion of S-allylcysteine sulfoxide to **allicin**. Decomposition of allicin yields **diallyl sulfide (DAS), diallyl disulfide (DADS), and diallyl trisulfide (DATS)**.
 - Degradation of sulfur compounds cause aroma of cooked _Brassica_ (cabbage family) and _Allium_ (onion, garlic, shallot, leek etc.) vegetables.
-- **Thiols**- There are only a few compounds that impart a characteristic meaty aroma and the most common examples are **2-methyl-3-furanthiol** and **bis-(2-methyl-3-furan) disulfide**.
-- **Isothiocyanates**- In cooked cauliflower, **allyl isothiocyanate** is key odorant, contributing pungent, black mustard-like notes. **Methyl thiocyanate, butyl isothiocyanate, 2-methylbutyl isothiocyanate** and sulfides have been found to be important in broccoli aroma
+- **Thiols** - There are only a few compounds that impart a characteristic meaty aroma and the most common examples are **2-methyl-3-furanthiol** and **bis-(2-methyl-3-furan) disulfide**.
+- **Isothiocyanates**- In cooked cauliflower, **allyl isothiocyanate** is key odourant, contributing pungent, black mustard-like notes. **Methyl thiocyanate, butyl isothiocyanate, 2-methylbutyl isothiocyanate** and sulfides have been found to be important in broccoli aroma.
 
 ---
 
@@ -508,7 +508,7 @@ _Summary of various coloured compounds formed by myoglobin_
 
 ### Question 1 (GATE 2024)
 
-The unique flavor of chocolate and cocoa is due to the formation of
+The unique flavour of chocolate and cocoa is due to the formation of
 
 - (A) 5-methyl-2-phenyl-2-hexenal
 - (B) Cyclotene
@@ -519,21 +519,21 @@ The unique flavor of chocolate and cocoa is due to the formation of
   >
   > Solution:
   >
-  > - **5-Methyl-2-phenyl-2-hexenal** contributes to the distinctive flavor of chocolate and cocoa. The flavour compound 5-methyl-2-phenyl-2-hexenal is a member of **phenylacetaldehydes**. This compound is naturally present in cocoa beans and is considered to be the main component responsible for their characteristic aroma. It gives a distinctive cocoa aroma with mocha undertones and this compound is excellent for adding creamy cocoa, chocolatey notes and enhancing fragrances.
-  > - **Cyclotene**, also known as methyl cyclopentenolone, has a nutty, licoric e, or caramellic flavor and odor. Cyclotene is also present in peanuts and roasted products like almond and coffee. Methyl cyclopentenolone is found very widely in **nature**, especially in foods containing sugars that have been subjected to heat.
+  > - **5-Methyl-2-phenyl-2-hexenal** contributes to the distinctive flavour of chocolate and cocoa. The flavour compound 5-methyl-2-phenyl-2-hexenal is a member of **phenylacetaldehydes**. This compound is naturally present in cocoa beans and is considered to be the main component responsible for their characteristic aroma. It gives a distinctive cocoa aroma with mocha undertones and this compound is excellent for adding creamy cocoa, chocolatey notes and enhancing fragrances.
+  > - **Cyclotene**, also known as methyl cyclopentenolone, has a nutty, licorice, or caramellic flavour and odour. Cyclotene is also present in peanuts and roasted products like almond and coffee. Methyl cyclopentenolone is found very widely in **nature**, especially in foods containing sugars that have been subjected to heat.
   > - **Furaneol** is a natural compound that is found in many fruits, including strawberries, pineapples, raspberries, kiwis, lychees, tomatoes, etc. It is also found in fermented products like soy sauce, soy paste, wines, and beer.
-  > - **Maltol** is a polyol or sugar alcohol that is used as a sugar substitute and laxative. It is a flavor enhancer and food additive with a caramel-like taste and a burnt sugar aroma. It is naturally present in pine needles, chicory, clover, ginseng, licorice and in roasted malt - from which it gets its name.
+  > - **Maltol** is a polyol or sugar alcohol that is used as a sugar substitute and laxative. It is a flavour enhancer and food additive with a caramel-like taste and a burnt sugar aroma. It is naturally present in pine needles, chicory, cloves, ginseng, licorice and in roasted malt - from which it gets its name.
 
 ---
 
 ### Question 2 (GATE 2021)
 
-Choose the correct pair of pigment and their corresponding colour in plant products
+Choose the correct pair of pigment and their corresponding colour in plant products.
 
-- (A) Carotene- Yellow-orange- Peppers
-- (B) Betanin- Purple/red- Cactus pear
-- (C) Lycopene- Red- Red beets
-- (D) Flavanols- Orange-red- Cauliflowers (GATE 2021)
+- (A) Carotene - Yellow-orange - Peppers
+- (B) Betanin - Purple/red - Cactus pear
+- (C) Lycopene - Red - Red beets
+- (D) Flavanols - Orange-red - Cauliflowers
 
   > Answer: (A) and (B)
 
@@ -554,7 +554,7 @@ Which of the following is an oil soluble pigment present in fruits and vegetable
 
 ### Question 4 (GATE 2018)
 
-Match the commodity in Group I with the bioactive constituent in Group II
+Match the commodity in Group I with the bioactive constituent in Group II.
 
 | **Group I**  | **Group II**                |
 | ------------ | --------------------------- |
@@ -607,14 +607,14 @@ When garlic is cut or processed, the crushed garlic odour is due to the formatio
 
 ### Question 7 (GATE 2011)
 
-Match the food items and their principal flavouring agents given in the two columns below
+Match the food items and their principal flavouring agents given in the two columns below.
 
 |           |             |
 | --------- | ----------- |
 | P. Butter | 1. Menthol  |
 | Q. Orange | 2. Limonene |
 | R. Cloves | 3. Eugenol  |
-| S. Mint   | 4. Diacetyl |
+| S. Mint   | 4. Diacetal |
 
 - (A) P-3, Q-2, R-4, S-1
 - (B) P-2, Q-3, R-1, S-4
