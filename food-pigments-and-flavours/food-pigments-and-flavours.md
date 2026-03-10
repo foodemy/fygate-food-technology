@@ -39,7 +39,7 @@ updatedOn: 2026-03-05
 
 ### Classification of pigments
 
-Pigments can be grouped into various categories based on their properties. The categorization can be done;
+Pigments can be grouped into various categories based on their properties. The categorization can be done:
 
 #### 1. Based on solubility
 
