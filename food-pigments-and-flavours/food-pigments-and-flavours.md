@@ -52,7 +52,7 @@ Pigments can be grouped into various categories based on their properties. The c
 
 1. Natural pigments - produced by living organisms such as plants, animals, fungi, and microorganisms.
    1. Plant origin - chlorophyll, carotene, anthocyanin, tannins, betanin, betaxanthins, etc.
-   2. Animal origin - myoglobin, heamoglobin, bile pigments, etc.
+   2. Animal origin - myoglobin, haemoglobin, bile pigments, etc.
 2. Synthetic - obtained from laboratories. E.g. - indigo, fast green FCF, sunset yellow FCF.
 
 #### 3. Based on chemical structure/structural characteristics
@@ -324,10 +324,10 @@ _Some major carotenoids and their food sources_
 
 #### 9. Haem Compounds (Myoglobin)
 
-- Haem compounds are responsible for the colour of the meat. The main pigment is **myoglobin (Mb)**. The blood pigment **heamoglobin (Hb)** is of 2nd degree importance.
+- Haem compounds are responsible for the colour of the meat. The main pigment is **myoglobin (Mb)**. The blood pigment **haemoglobin (Hb)** is of 2nd degree importance.
 - Since blood is removed by slaughter, Mb is responsible for about 90% of flesh colour.
 - Myoglobin is the sarcoplasmic haem protein primarily responsible for the meat colour.
-- Myoglobin stores oxygen in muscle cells and is similar to heamoglobin that stores oxygen in blood cells. The more myoglobin content meat contains, the darker red it will appear in colour.
+- Myoglobin stores oxygen in muscle cells and is similar to haemoglobin that stores oxygen in blood cells. The more myoglobin content meat contains, the darker red it will appear in colour.
 - It is a globular protein and has a single polypeptide chain.
 - Chromophore component responsible for light absorption and colour is porphyrin known as **haem**. The protein part of the molecule is known as globin.
 
