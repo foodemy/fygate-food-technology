@@ -498,7 +498,7 @@ _Summary of various coloured compounds formed by myoglobin_
 - **Sulphide** - Simple sulphides such as **Dimethyl sulphide** are important for fruit flavours, but also at certain concentrations gives the smell of the sea as well as sweet corn and asparagus aromas.
 - E.g. - **Allyl methyl sulphide** and **1-propenal sulphides** present in garlic and onion.
 - Cutting or crushing of garlic clove causes allinase-mediated conversion of S-allylcysteine sulphoxide to **allicin**. Decomposition of allicin yields **diallyl sulphide (DAS), diallyl disulphide (DADS), and diallyl trisulphide (DATS)**.
-- Degradation of sulphur compounds cause aroma of cooked _Brassica_ (cabbage family) and _Allium_ (onion, garlic, shallot, leek etc.) vegetables.
+- Degradation of sulphur compounds causes the aroma of cooked _Brassica_ (cabbage family) and _Allium_ (onion, garlic, shallot, leek etc.) vegetables.
 - **Thiols** - There are only a few compounds that impart a characteristic meaty aroma and the most common examples are **2-methyl-3-furanthiol** and **bis-(2-methyl-3-furan) disulphide**.
 - **Isothiocyanates**- In cooked cauliflower, **allyl isothiocyanate** is key odourant, contributing pungent, black mustard-like notes. **Methyl thiocyanate, butyl isothiocyanate, 2-methylbutyl isothiocyanate** and sulphides have been found to be important in broccoli aroma.
 
