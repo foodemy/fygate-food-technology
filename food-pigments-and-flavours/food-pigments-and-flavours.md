@@ -52,7 +52,7 @@ Pigments can be grouped into various categories based on their properties. The c
 
 1. Natural pigments - produced by living organisms such as plants, animals, fungi, and microorganisms.
    1. Plant origin - chlorophyll, carotene, anthocyanin, tannins, betanin, betaxanthins, etc.
-   2. Animal origin - myoglobin, heamoglobin, bile pigments, etc.
+   2. Animal origin - myoglobin, haemoglobin, bile pigments, etc.
 2. Synthetic - obtained from laboratories. E.g. - indigo, fast green FCF, sunset yellow FCF.
 
 #### 3. Based on chemical structure/structural characteristics
