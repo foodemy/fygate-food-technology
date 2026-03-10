@@ -468,7 +468,7 @@ _Summary of various coloured compounds formed by myoglobin_
 - E.g. - **limonene**- has weak orangey citrus peel aroma.
 - $\alpha$-thujene (woody) and sabinene (citrus) are present in fruits and spices.
 - Terpenoid alcohols such as **nerol** and **geraniol** (which are cis/trans isomers of each other) and **citronellol** and **linalool** (two isomers) provide delicate **lemon, rose and violet aromas**, which are abundant in herbs, spices and fruits and are essential to many flavourings.
-- **Menthol** is the most familiar of terpenoids, provide **minty note**, and also activates the cold-sensitive receptors in the oral cavity to produce a **cooling effect**.
+- **Menthol**, the most familiar of the terpenoids, provides a **minty note** and also activates the cold-sensitive receptors in the oral cavity to produce a **cooling effect**.
 - **L-Carvone** exists in two enantiomeric forms with different aroma properties. R-carvone smells of **spearmint** (and is extracted from _Mentha spicata L._) whilst the S enantiomer accounts for 50% essential oils in **caraway seeds**.
 
   > Terpenes are simple hydrocarbons, while terpenoids are modified class of terpenes with different functional groups and oxidized methyl group moved or removed at various positions.
