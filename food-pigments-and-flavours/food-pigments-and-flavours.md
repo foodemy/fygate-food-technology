@@ -215,7 +215,7 @@ The green colour of vegetables and fruits, due to the presence of chlorophyll, i
 - Some 600 different carotenoids are known to occur naturally, and new carotenoids continue to be identified.
 - They are responsible for **red, orange** and **yellow colours** of plants and animal foods.
 - Plants such as carrots, tomato, alfalfa, vegetable oils, apricots, dark green leafy vegetables, kale, spinach, broccoli, nettle, etc. are source of carotenoids.
-- They play important role in photosynthesis and photo protection in plant tissues (ability to quench and inactive reactive $O_2$ species formed by exposure to light and air).
+- They play important role in photosynthesis and photo protection in plant tissues (ability to quench and inactivate reactive $O_2$ species formed by exposure to light and air).
 - Specific carotenoids (in plants) serve as precursor of abscisic acid (chemical messengers and growth regulator).
 - They serve as **precursors of vitamin A**.
 
