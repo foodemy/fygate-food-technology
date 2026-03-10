@@ -118,7 +118,7 @@ The green colour of vegetables and fruits, due to the presence of chlorophyll, i
 ##### Effect of enzyme
 
 - Chlorophyllase catalyzes cleavage of phytol from chlorophylls forming **chlorophyllide (bright green)**.
-- "In the presence of acid, chlorophyllides undergo the loss of magnesium to form **pheophorbides (olive brown)**.
+- In the presence of acid, chlorophyllides undergo the loss of magnesium to form **pheophorbides (olive brown)**.
 - Chlorophyllase also hydrolyzes the phytol chain of pheophytins giving rise to pheophorbides.
 - Chlorophyllase losses its activity when heated to 100 °C.
 - Since the optimum temperature for chlorophyllase activity in vegetables ranges between 60 °C and 82.2 °C, some green vegetables show considerable formation of chlorophyllides and pheophorbides during low-temperature (60–70 °C) blanching treatments.
