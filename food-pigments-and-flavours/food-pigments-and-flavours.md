@@ -478,7 +478,7 @@ _Summary of various coloured compounds formed by myoglobin_
 #### 5. Alcohols and Phenols
 
 - Contribution to aroma tends to be less than for the aldehydes. The straight-chain alcohols are abundant in fruits, often **increasing with maturity**.
-- **E.g. of alcohol**: 2-Methyl-1-propanol can be associated with brown apples and bruised fruit, **1-octen-3-ol** being a character impact compound in mushrooms, geosmin gives a characteristic earthy, musty notes to beetroot.
+- **E.g. of alcohol**: 2-Methyl-1-propanol can be associated with brown apples and bruised fruit, **1-octen-3-ol** being a character impact compound in mushrooms, geosmin gives characteristic earthy, musty notes to beetroot.
 - **E.g. of phenols: p-cresol** are particularly phenolic and **smoky**, terpene-derived **thymol** and **eugenol** provide flavour to thyme and clove, respectively, **vanillin** - key constituent of vanilla is a phenol with that characteristic sweet vanilla aroma with smoky undertones.
 
 #### 6. Amines
