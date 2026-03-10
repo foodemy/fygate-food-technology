@@ -383,7 +383,7 @@ _Summary of various coloured compounds formed by myoglobin_
 - Flavour is composed of taste and odour.
 - Compounds responsible for taste are generally non-volatile at room temperature. They interact with taste receptors in taste buds of tongue.
 - Aroma substances are volatile compounds, perceived by odour receptor sites of smell organs i.e. olfactory tissues of nasal cavity.
-- A vast number of compounds are responsible for the aroma of the food products, such as aldehydes, esters, alcohols, methyl ketones, lactones, phenolic compounds, dicarbonyls, short and medium-chain free fatty acids and sulphur compounds.
+- A vast number of compounds are responsible for the aroma of the food products, such as aldehydes, esters, alcohols, methyl ketones, lactones, phenolic compounds, dicarbonyls, short- and medium-chain free fatty acids and sulphur compounds.
 
 #### Classification of aroma compounds
 
