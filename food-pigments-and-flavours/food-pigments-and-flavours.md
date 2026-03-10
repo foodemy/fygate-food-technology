@@ -108,7 +108,7 @@ The green colour of vegetables and fruits, due to the presence of chlorophyll, i
 - Colour first changes to bright green, because of clearance of cloudy pockets from their cells due to heating and expansion of gases. bright green colour of chloroplasts is visualized.
 - As temperature rises, chemical changes lead to formation of olive green to dull green pheophytins.
 - Formation of pheophytins during heating is initiated by the release of cellular acids and the synthesis of new acids.
-- **Mild heat epimerization** is the first alteration observed when chlorphyll is exposed to heat. Mild heating is sufficient to form isomers designated as chlorophylls-_a'_ and _b'_.
+- **Mild heat epimerization** is the first alteration observed when chlorophyll is exposed to heat. Mild heating is sufficient to form isomers designated as chlorophylls-_a'_ and _b'_.
 
 <figure>
   <img src="image2.png" alt="">
