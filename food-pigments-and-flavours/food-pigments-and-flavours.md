@@ -181,7 +181,7 @@ The green colour of vegetables and fruits, due to the presence of chlorophyll, i
 - Substitution of the hydroxyl and methoxyl groups affects the colour of the anthocyanins.
 - An increase in the number of hydroxyl groups tends to deepen the colour to a more bluish shade. An increase in the number of methoxyl groups increases redness.
 - Increased hydroxylation decreases the stability; increased methylation increases the stability of anthocyanins.
-- Application of anthocyanins in foods is restricted due to their ability to participate in a number of reactions resulting in decolorisation, e.g. - reaction with ascorbic acid, hydrogen peroxide, oxygen, sulfur dioxide.
+- Application of anthocyanins in foods is restricted due to their ability to participate in a number of reactions resulting in decolorisation, e.g. - reaction with ascorbic acid, hydrogen peroxide, oxygen, sulphur dioxide.
 - Changes in anthocyanin during processing involve polymerization (browning) or cleavage (loss of colour).
 
 ##### Effect of heat on anthocyanins
@@ -420,7 +420,7 @@ _Summary of various coloured compounds formed by myoglobin_
 | **Phenols**        | **Thymol**                                                          | Thyme                                                           |
 |                    | **Eugenol**                                                         | Clove                                                           |
 | **Thiol**          | **2-Methyl-3-furanthiol**                                           | Cooked meat                                                     |
-| **Sulfides**       | **Diallyl disulfide, allicin**                                      | Garlic                                                          |
+| **Sulphides**       | **Diallyl disulphide, allicin**                                      | Garlic                                                          |
 
 ### Types of flavours
 
@@ -492,15 +492,15 @@ _Summary of various coloured compounds formed by myoglobin_
 - They tend to impart **peachy, creamy and coconut aromas**.
 - E.g. - **$\gamma$-decalactone** is the major lactone in both peaches and nectarines, **Jasmine lactone** provides a floral petal-like aroma to green tea, etc.
 
-#### 8. Sulfur compounds
+#### 8. Sulphur compounds
 
-- Sulfur compounds are exceptionally odour-active.
-- **Sulfide** - Simple sulfides such as **Dimethyl sulfide** is important for fruit flavours, but also at certain concentrations gives the smell of the sea as well as sweet corn and asparagus aromas.
-- E.g. - **Allyl methyl sulfide** and **1-propenal sulfides** present in garlic and onion.
-- Cutting or crushing of garlic clove causes allinase-mediated conversion of S-allylcysteine sulfoxide to **allicin**. Decomposition of allicin yields **diallyl sulfide (DAS), diallyl disulfide (DADS), and diallyl trisulfide (DATS)**.
-- Degradation of sulfur compounds cause aroma of cooked _Brassica_ (cabbage family) and _Allium_ (onion, garlic, shallot, leek etc.) vegetables.
-- **Thiols** - There are only a few compounds that impart a characteristic meaty aroma and the most common examples are **2-methyl-3-furanthiol** and **bis-(2-methyl-3-furan) disulfide**.
-- **Isothiocyanates**- In cooked cauliflower, **allyl isothiocyanate** is key odourant, contributing pungent, black mustard-like notes. **Methyl thiocyanate, butyl isothiocyanate, 2-methylbutyl isothiocyanate** and sulfides have been found to be important in broccoli aroma.
+- Sulphur compounds are exceptionally odour-active.
+- **Sulphide** - Simple sulphides such as **Dimethyl sulphide** is important for fruit flavours, but also at certain concentrations gives the smell of the sea as well as sweet corn and asparagus aromas.
+- E.g. - **Allyl methyl sulphide** and **1-propenal sulphides** present in garlic and onion.
+- Cutting or crushing of garlic clove causes allinase-mediated conversion of S-allylcysteine sulphoxide to **allicin**. Decomposition of allicin yields **diallyl sulphide (DAS), diallyl disulphide (DADS), and diallyl trisulphide (DATS)**.
+- Degradation of sulphur compounds cause aroma of cooked _Brassica_ (cabbage family) and _Allium_ (onion, garlic, shallot, leek etc.) vegetables.
+- **Thiols** - There are only a few compounds that impart a characteristic meaty aroma and the most common examples are **2-methyl-3-furanthiol** and **bis-(2-methyl-3-furan) disulphide**.
+- **Isothiocyanates**- In cooked cauliflower, **allyl isothiocyanate** is key odourant, contributing pungent, black mustard-like notes. **Methyl thiocyanate, butyl isothiocyanate, 2-methylbutyl isothiocyanate** and sulphides have been found to be important in broccoli aroma.
 
 ---
 
@@ -597,7 +597,7 @@ Match the edible plant tissue in Group I with the type of carotenoid given in Gr
 When garlic is cut or processed, the crushed garlic odour is due to the formation of
 
 - (A) diacetyl
-- (B) diallyl disulfide
+- (B) diallyl disulphide
 - (C) ethyl butyrate
 - (D) benzaldehyde
 
