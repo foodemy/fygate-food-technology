@@ -93,7 +93,7 @@ The green colour of vegetables and fruits, due to the presence of chlorophyll, i
 ##### Effect of acid
 
 - pH plays a vital role in stability. It is more stable in alkaline pH than acidic.
-- Treatment of cholorophyll _a_ with acid removes the magnesium ion replacing it with two hydrogen atoms giving an **olive-brown** solid, **pheophytin**.
+- Treatment of chlorophyll _a_ with acid removes the magnesium ion replacing it with two hydrogen atoms giving an **olive-brown** solid, **pheophytin**.
 - Pheophytin-_a_ exhibits a **grey-brown colour**, whereas pheophytin-_b_ is **olive green**.
 - Formation of pheophytin in processed vegetables is increased at lower tissue pH values and at higher process temperatures.
 - The formation of derivatives known as **pyropheophytins** may also occur by the loss of the carbomethoxy group from pheophytins (5, 12) as a result of further heating.
