@@ -29,7 +29,7 @@ updatedOn: 2026-03-05
 - Pigments extracted from plants, animals and minerals have been widely used for imparting colour to various foods. Nowadays, use of synthetic dyes is also more common.
 - Various natural pigments found in food sources include:
   - Chlorophylls
-  - Myoglobin and Heamoglobin
+  - Myoglobin and haemoglobin
   - Anthocyanins
   - Carotenoids
   - Flavonoids
