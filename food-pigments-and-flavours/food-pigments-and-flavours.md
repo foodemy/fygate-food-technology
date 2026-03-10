@@ -324,10 +324,10 @@ _Some major carotenoids and their food sources_
 
 #### 9. Haem Compounds (Myoglobin)
 
-- Haem compounds are responsible for the colour of the meat. The main pigment is **myoglobin (Mb)**. The blood pigment **heamoglobin (Hb)** is of 2nd degree importance.
+- Haem compounds are responsible for the colour of the meat. The main pigment is **myoglobin (Mb)**. The blood pigment **haemoglobin (Hb)** is of 2nd degree importance.
 - Since blood is removed by slaughter, Mb is responsible for about 90% of flesh colour.
 - Myoglobin is the sarcoplasmic haem protein primarily responsible for the meat colour.
-- Myoglobin stores oxygen in muscle cells and is similar to heamoglobin that stores oxygen in blood cells. The more myoglobin content meat contains, the darker red it will appear in colour.
+- Myoglobin stores oxygen in muscle cells and is similar to haemoglobin that stores oxygen in blood cells. The more myoglobin content meat contains, the darker red it will appear in colour.
 - It is a globular protein and has a single polypeptide chain.
 - Chromophore component responsible for light absorption and colour is porphyrin known as **haem**. The protein part of the molecule is known as globin.
 
