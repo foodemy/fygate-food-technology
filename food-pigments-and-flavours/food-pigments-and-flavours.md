@@ -322,7 +322,7 @@ _Some major carotenoids and their food sources_
 - E.g. of quinones - benzoquinones, naphthoquinones, anthraquinones.
 - Compounds with complex substitutes such as naphthoquinones and anthraquinones have deep purple to black hues.
 
-#### 8. Haem Compounds (Myoglobin)
+#### 9. Haem Compounds (Myoglobin)
 
 - Haem compounds are responsible for the colour of the meat. The main pigment is **myoglobin (Mb)**. The blood pigment **heamoglobin (Hb)** is of 2nd degree importance.
 - Since blood is removed by slaughter, Mb is responsible for about 90% of flesh colour.
