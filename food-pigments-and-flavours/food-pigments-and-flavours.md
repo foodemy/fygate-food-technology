@@ -449,7 +449,7 @@ _Summary of various coloured compounds formed by myoglobin_
 - **Acetoin** is a common flavour substance in many cultured dairy products. Acetoin has a mild creamy, slightly sweet, butter-like flavour that is similar to that of diacetyl. Diacetyl combined with acetoin imparts the mild, pleasant, buttery taste, and they are critical to the rich perception of yoghurt.
 - **Acetone** and **2-butanone** are both contributed by milk and are volatile compounds of minor importance to flavour contribution in milk products.
 - Acetone has a sweet, fruity aroma and 2-butanone contributes to the “fruity” flavour. Although each of these carbonyl compounds constitutes a recognizable aroma alone, yoghurt flavour is determined by a balanced mixture.
-- **"Methyl Cyclopentenolone (MCP)—also known as maple lactone, cyclotene, or corylone\*** possesses a powerful caramel aroma and is used to enhance both flavor and sweetness. It is found in foods containing sugars that have been subjected to heat, providing a characteristic 'cooked sugar' profile.
+- **Methyl Cyclopentenolone (MCP)**—also known as maple lactone, cyclotene or corylone—possesses a powerful caramel aroma and is used to enhance both flavour and sweetness. It is found in foods containing sugars that have been subjected to heat, providing a characteristic 'cooked sugar' profile.
 
 #### 3. Esters
 
