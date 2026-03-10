@@ -72,7 +72,7 @@ Pigments can be grouped into various categories based on their properties. The c
 - Chlorophyll molecule consists of a central metal core (magnesium) surrounded by a nitrogen-containing structure, resulting in a **porphyrin** ring.
 - All the chlorophyll molecules are characterized by the presence of four pyrrole-like rings (thus termed **tetrapyrroles**) along with an additional fifth ring.
 - Besides, a number of side chains are attached to the ring structure, of which an important one is, the side chain of a long hydrocarbon, called **phytol** ring.
-- Chlorophylls are classified as chlorins, which are close relatives of porphyrins like heamoglobin. Chlorophyll are magnesium complexes derived porphin.
+- Chlorophylls are classified as chlorins, which are close relatives of porphyrins like haemoglobin. Chlorophylls are magnesium complexes derived from porphin.
 - Light absorption in chlorophyll is carried out by the porphyrin ring.
 - A number of chlorophyll structures have been known. In higher plants, ferns, mosses, algae, only two chlorophylls found ("_a_" and "_b_"), and the rest of them have been found in other groups such as algae and bacteria.
 - Chlorophylls _a_ and _b_ occur in approximate ratio of 3:1 in fruits and vegetables.
