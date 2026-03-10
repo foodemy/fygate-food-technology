@@ -387,7 +387,7 @@ _Summary of various coloured compounds formed by myoglobin_
 
 #### Classification of aroma compounds
 
-- Based on functional group: aldehydes, ketones, alcohols, esters, phenols, terpenes, amines, sulfur based compounds, etc.
+- Based on functional group: aldehydes, ketones, alcohols, esters, phenols, terpenes, amines, sulphur-based compounds, etc.
 
 | **Aroma Compound** | **Examples**                                                        | **Food Source**                                                 |
 | ------------------ | ------------------------------------------------------------------- | --------------------------------------------------------------- |
