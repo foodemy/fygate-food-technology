@@ -294,7 +294,7 @@ _Some major carotenoids and their food sources_
   <figcaption>Figure 7: </figcaption>
 </figure>
 
-- Under mild alkaline conditions, betanin degrades to betalamic acid and cyclo-DOPSA-5 O glucoside. These products are also formed during heating of acidic betanin solution or during thermal processing of products containing beetroot, but more slowly.
+- Under mild alkaline conditions, betanin degrades to betalamic acid and cyclo-DOPA-5 O glucoside. These products are also formed during heating of acidic betanin solution or during thermal processing of products containing beetroot, but more slowly.
 - Decrease in water activity will decrease the degradation rate of betalains.
 
 #### 6. Tannins
@@ -420,7 +420,7 @@ _Summary of various coloured compounds formed by myoglobin_
 | **Phenols**        | **Thymol**                                                          | Thyme                                                           |
 |                    | **Eugenol**                                                         | Clove                                                           |
 | **Thiol**          | **2-Methyl-3-furanthiol**                                           | Cooked meat                                                     |
-| **Sulphides**       | **Diallyl disulphide, allicin**                                      | Garlic                                                          |
+| **Sulphides**      | **Diallyl disulphide, allicin**                                     | Garlic                                                          |
 
 ### Types of flavours
 
